@@ -1,0 +1,25 @@
+<Response>
+    <Say voice="aditi">Hello, Your Check In Code is.</Say>
+
+    <Pause length="1"/> 
+    <Speak voice="aditi">
+        <s>Letter H</s>
+        <s>Letter e</s>
+        <s>Letter l</s>
+        <s>Letter l</s>
+        <s>Letter o</s>
+    </Speak>
+ <Pause length="1"/> 
+     <Say voice="aditi">Hello, Your Check In Code is.</Say>
+
+    <Pause length="1"/> 
+    <Speak voice="aditi">
+        <s>Letter H</s>
+        <s>Letter e</s>
+        <s>Letter l</s>
+        <s>Letter l</s>
+        <s>Letter o</s>
+    </Speak>
+
+
+</Response>

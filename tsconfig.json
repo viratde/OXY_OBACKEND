@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "commonjs",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "resolveJsonModule":true,
+    "outDir": "./dist/",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "typeRoots": ["./global.d.ts"]
+  },
+  "exclude": ["./node_modules"]
+}

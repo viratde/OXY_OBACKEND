@@ -1,0 +1,152 @@
+.main-content {
+    width: 95%;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bigtext h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+
+.nomral-button {
+    margin: auto;
+    background-color: #181818;
+    border-radius: 100px;
+    min-width: 160px;
+    padding: 15px 10px 15px 10px;
+    margin-top: 20px;
+    max-width: 340px;
+}
+
+.nomral-button button {
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+.nomral-button:hover {
+    opacity: 0.7;
+}
+
+.primary-button {
+    margin: auto;
+    background-color: #4ADE80;
+    border-radius: 100px;
+    min-width: 160px;
+    padding: 15px 10px 15px 10px;
+    margin-top: 20px;
+    max-width: 340px;
+
+}
+
+.primary-button:hover {
+    opacity: 0.7;
+}
+
+.primary-button button {
+    background: transparent;
+    display: block;
+    margin: auto;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+.icon-button button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-button button *:first-child {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px
+}
+
+.orTextContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 10px;
+}
+
+.orTextContainer hr {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #FFF;
+    border-radius: 20px;
+    margin: 10px 10px;
+}
+
+.noaccount {
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+
+.specialTop {
+    display: block;
+    max-width: 150px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    height: 5px;
+    margin: 40px auto;
+}
+
+.inputContainer{
+    margin: 10px auto;
+    max-width: 340px;
+}
+
+.inputContainer.last {
+    margin: 10px auto;
+    max-width: 340px;
+    margin-bottom: 50px;
+}
+
+.customInput {
+    background-color: #181818;
+    display: block;
+    margin: 15px auto;
+    color: white;
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 10px 15px;
+    font-family: 'Roboto Mono', monospace;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.customLabel {
+    display: block;
+    margin: auto;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    margin: 15px auto;
+}

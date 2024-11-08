@@ -1,0 +1,4731 @@
+[{
+    "_id": {
+      "$oid": "64c8906f262fb736760dc541"
+    },
+    "hotelName": "OXY RUDRA INN",
+    "hotelId": "OXY20231",
+    "phoneNo": "9155596573",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/5b903fb0-094c-425e-b547-8069ff341faf.png",
+          "/hotelImages/img/49400996-f32d-4bbd-b476-9f2a7da080e8.png",
+          "/hotelImages/img/49400996-f32d-4bbd-b476-9f2a7da080e8.png",
+          "/hotelImages/img/9c5ccda5-6a8e-4c29-8a4f-573e67720892.png"
+        ],
+        "_id": {
+          "$oid": "650292fb4439f06c8db2fcc9"
+        }
+      }
+    ],
+    "latitude": 23.3033861,
+    "longitude": 85.3093384,
+    "hotelAddress": "SINGH MORE, GIDAWARI PLAZA , RANCHI",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/OYO+Oxy+Rudra+Inn/@23.3033861,85.3093384,17z/data=!3m1!4b1!4m9!3m8!1s0x39f51f47d42d7a0b:0x8876c07d2ce921d4!5m2!4m1!1i2!8m2!3d23.3033812!4d85.3142093!16s%2Fg%2F11n18tvfw6?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 7,
+        "features": [],
+        "_id": {
+          "$oid": "650292fb4439f06c8db2fcca"
+        }
+      }
+    ],
+    "minPrice": 700,
+    "maxPrice": 1000,
+    "noOfRatings": 2,
+    "rating": 3,
+    "reviews": [
+      {
+        "name": "Abhimanyu Kumar",
+        "phoneNumber": {
+          "$numberLong": "8249141187"
+        },
+        "ratingLevel": 2,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-03T11:36:36.322Z"
+        },
+        "bookingId": 11580639,
+        "_id": {
+          "$oid": "64cb9144014f179133fe2095"
+        }
+      },
+      {
+        "name": "Dinesh Prajapati",
+        "phoneNumber": {
+          "$numberLong": "7000637319"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-27T10:34:24.287Z"
+        },
+        "bookingId": 49943583,
+        "_id": {
+          "$oid": "64eb26b075e1359ae157b5c3"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T04:56:15.912Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-14T04:58:35.578Z"
+    },
+    "__v": 2,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fccc"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fccd"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fcce"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fccf"
+            }
+          },
+          {
+            "roomNo": 105,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fcd0"
+            }
+          },
+          {
+            "roomNo": 106,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fcd1"
+            }
+          },
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292fb4439f06c8db2fcd2"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292fb4439f06c8db2fccb"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c89236262fb736760dc54e"
+    },
+    "hotelName": "OXY KINGS INN",
+    "hotelId": "OXY2002",
+    "phoneNo": "9155596556",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/305b66c7-ac17-4a28-bdba-5c3d56bca88b.png",
+          "/hotelImages/img/77812274-d004-400b-abf6-400e1712c09e.png",
+          "/hotelImages/img/ad7ada52-9129-4a61-b9d9-2b036e0a304f.png",
+          "/hotelImages/img/a532d624-b323-4972-8375-a82f373602fe.png"
+        ],
+        "_id": {
+          "$oid": "650292494439f06c8db2fc33"
+        }
+      }
+    ],
+    "latitude": 23.35609,
+    "longitude": 85.2985051,
+    "hotelAddress": "Harmu, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/OYO+Oxy+Kings+Inn/@23.35609,85.2985051,17z/data=!3m1!4b1!4m9!3m8!1s0x39f4e1b607da5cdf:0x48321ed6a211df0!5m2!4m1!1i2!8m2!3d23.35609!4d85.30108!16s%2Fg%2F11spxlp5b0?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 15,
+        "features": [],
+        "_id": {
+          "$oid": "650292494439f06c8db2fc34"
+        }
+      }
+    ],
+    "minPrice": 1000,
+    "maxPrice": 1500,
+    "noOfRatings": 0,
+    "rating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-08-01T05:03:50.832Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-14T04:55:37.489Z"
+    },
+    "__v": 0,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc36"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc37"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc38"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc39"
+            }
+          },
+          {
+            "roomNo": 105,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc3a"
+            }
+          },
+          {
+            "roomNo": 106,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc3b"
+            }
+          },
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc3c"
+            }
+          },
+          {
+            "roomNo": 108,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc3d"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292494439f06c8db2fc35"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc3f"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc40"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc41"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc42"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc43"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc44"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292494439f06c8db2fc45"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292494439f06c8db2fc3e"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8940f262fb736760dc55d"
+    },
+    "hotelName": "OXY PARADISE HARMU",
+    "hotelId": "OXY2003",
+    "phoneNo": "9155596628",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/ffc661b4-093b-4346-9c82-0ca69c0f8dad.png",
+          "/hotelImages/img/23134587-900a-48d8-a9e0-a62101a82f2a.png",
+          "/hotelImages/img/a18c6704-d6c6-460b-b09c-10219fc5cb0f.png",
+          "/hotelImages/img/24421195-2f6d-4b6f-8353-0c0377dca02f.png"
+        ],
+        "_id": {
+          "$oid": "650293fe4439f06c8db2fd0a"
+        }
+      }
+    ],
+    "latitude": 23.35609,
+    "longitude": 85.2985051,
+    "hotelAddress": "Harmu Housing Colony, Harmu, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/Super+OYO+Flagship+Oxy+Paradise+Harmu/@23.35609,85.2985051,17z/data=!4m14!1m2!2m1!1sparadise+harmu!3m10!1s0x39f4e127692c117b:0x351d06a6a61d011a!5m3!1s2023-08-03!4m1!1i2!8m2!3d23.3572805!4d85.3029334!15sCg5wYXJhZGlzZSBoYXJtdZIBBWhvdGVs4AEA!16s%2Fg%2F11qngg1c0n?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates ki/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 9,
+        "features": [],
+        "_id": {
+          "$oid": "650293fe4439f06c8db2fd0b"
+        }
+      }
+    ],
+    "minPrice": 700,
+    "maxPrice": 1500,
+    "noOfRatings": 45,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "name": "Soumya Ranjan",
+        "phoneNumber": {
+          "$numberLong": "7008800699"
+        },
+        "ratingLevel": 2,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-27T12:40:22.576Z"
+        },
+        "bookingId": 42612238,
+        "_id": {
+          "$oid": "64eb443675e1359ae157e6a2"
+        }
+      },
+      {
+        "name": "Vivek Mehta",
+        "phoneNumber": {
+          "$numberLong": "9006802051"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T11:40:47.445Z"
+        },
+        "bookingId": 83372567,
+        "_id": {
+          "$oid": "6502f13ffe1dc80808f6aefd"
+        }
+      },
+      {
+        "name": "anand kumar",
+        "phoneNumber": {
+          "$numberLong": "7050731979"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-16T11:44:31.960Z"
+        },
+        "bookingId": 32196141,
+        "_id": {
+          "$oid": "6505951f4e9fe534014e3115"
+        }
+      },
+      {
+        "name": "Sahil Kuraishi ",
+        "phoneNumber": {
+          "$numberLong": "8102607032"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T08:54:18.438Z"
+        },
+        "bookingId": 14275217,
+        "_id": {
+          "$oid": "6508103a9dc6170253865e4d"
+        }
+      },
+      {
+        "name": "Sahil Kuraishi ",
+        "phoneNumber": {
+          "$numberLong": "8102607032"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T08:54:22.086Z"
+        },
+        "bookingId": 98575791,
+        "_id": {
+          "$oid": "6508103e9dc6170253865e57"
+        }
+      },
+      {
+        "name": "Sahil Kuraishi ",
+        "phoneNumber": {
+          "$numberLong": "8102607032"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T08:54:26.845Z"
+        },
+        "bookingId": 45109116,
+        "_id": {
+          "$oid": "650810429dc6170253865e62"
+        }
+      },
+      {
+        "name": "Kamal Kujur",
+        "phoneNumber": {
+          "$numberLong": "8340161174"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T12:00:14.658Z"
+        },
+        "bookingId": 68360099,
+        "_id": {
+          "$oid": "65083bce9dc617025386c875"
+        }
+      },
+      {
+        "name": "Yogesh Raj",
+        "phoneNumber": {
+          "$numberLong": "7903257269"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T12:51:17.291Z"
+        },
+        "bookingId": 16358019,
+        "_id": {
+          "$oid": "650847c59dc617025386e5d8"
+        }
+      },
+      {
+        "name": "Yogesh Raj",
+        "phoneNumber": {
+          "$numberLong": "7903257269"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T12:51:27.721Z"
+        },
+        "bookingId": 71126717,
+        "_id": {
+          "$oid": "650847cf9dc617025386e5f2"
+        }
+      },
+      {
+        "name": "Badal singh",
+        "phoneNumber": {
+          "$numberLong": "8789715445"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T14:16:06.944Z"
+        },
+        "bookingId": 7350950,
+        "_id": {
+          "$oid": "65085ba69dc61702538719e8"
+        }
+      },
+      {
+        "name": "abhimanyu Kumar ",
+        "phoneNumber": {
+          "$numberLong": "8092806752"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T16:21:30.878Z"
+        },
+        "bookingId": 71634995,
+        "_id": {
+          "$oid": "6508790a9dc6170253874566"
+        }
+      },
+      {
+        "name": "Gopi Kumar",
+        "phoneNumber": {
+          "$numberLong": "7061039789"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T03:27:04.171Z"
+        },
+        "bookingId": 11692934,
+        "_id": {
+          "$oid": "650915089dc617025387ce0d"
+        }
+      },
+      {
+        "name": "Srimanta Mishra",
+        "phoneNumber": {
+          "$numberLong": "8249117897"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T04:39:44.067Z"
+        },
+        "bookingId": 77888685,
+        "_id": {
+          "$oid": "650926109dc617025387eef8"
+        }
+      },
+      {
+        "name": "lãkrä brõthër,s",
+        "phoneNumber": {
+          "$numberLong": "6202110315"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T05:14:34.222Z"
+        },
+        "bookingId": 52372871,
+        "_id": {
+          "$oid": "65092e3a9dc6170253880c2a"
+        }
+      },
+      {
+        "name": "Akash Chouhan",
+        "phoneNumber": {
+          "$numberLong": "7004805168"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T08:33:42.434Z"
+        },
+        "bookingId": 55109775,
+        "_id": {
+          "$oid": "65095ce649740f37c0c746fc"
+        }
+      },
+      {
+        "name": "Alok Kumar",
+        "phoneNumber": {
+          "$numberLong": "7667805589"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T12:29:52.826Z"
+        },
+        "bookingId": 50564220,
+        "_id": {
+          "$oid": "6509944049740f37c0c7f8ff"
+        }
+      },
+      {
+        "name": "Mohit Kumar",
+        "phoneNumber": {
+          "$numberLong": "8709471156"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T15:10:47.995Z"
+        },
+        "bookingId": 74523456,
+        "_id": {
+          "$oid": "6509b9f749740f37c0c847fc"
+        }
+      },
+      {
+        "name": "Nitesh Kumar",
+        "phoneNumber": {
+          "$numberLong": "9304969543"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-20T08:16:00.517Z"
+        },
+        "bookingId": 20847198,
+        "_id": {
+          "$oid": "650aaa4016b040ec57521fc9"
+        }
+      },
+      {
+        "name": "Nitesh Kumar",
+        "phoneNumber": {
+          "$numberLong": "9304969543"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-20T08:16:03.989Z"
+        },
+        "bookingId": 81812270,
+        "_id": {
+          "$oid": "650aaa4316b040ec57521fe1"
+        }
+      },
+      {
+        "name": "Vipransh Manshu ",
+        "phoneNumber": {
+          "$numberLong": "8409071007"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-20T11:03:34.816Z"
+        },
+        "bookingId": 84449496,
+        "_id": {
+          "$oid": "650ad18616b040ec57528147"
+        }
+      },
+      {
+        "name": "Sumit Kumar",
+        "phoneNumber": {
+          "$numberLong": "8789883623"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T03:36:41.259Z"
+        },
+        "bookingId": 68733053,
+        "_id": {
+          "$oid": "650bba4916b040ec5753e34d"
+        }
+      },
+      {
+        "name": "Sumit Kumar",
+        "phoneNumber": {
+          "$numberLong": "8789883623"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T03:36:45.018Z"
+        },
+        "bookingId": 19565643,
+        "_id": {
+          "$oid": "650bba4d16b040ec5753e368"
+        }
+      },
+      {
+        "name": "Ajit Khalkho",
+        "phoneNumber": {
+          "$numberLong": "9341193004"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T11:24:18.543Z"
+        },
+        "bookingId": 21063603,
+        "_id": {
+          "$oid": "650c27e235dd56eb0007bab7"
+        }
+      },
+      {
+        "name": "Ajit Khalkho",
+        "phoneNumber": {
+          "$numberLong": "9341193004"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T11:24:29.465Z"
+        },
+        "bookingId": 40076717,
+        "_id": {
+          "$oid": "650c27ed35dd56eb0007bad4"
+        }
+      },
+      {
+        "name": "Surajkumar Mahto",
+        "phoneNumber": {
+          "$numberLong": "8709748618"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T10:08:17.483Z"
+        },
+        "bookingId": 97136595,
+        "_id": {
+          "$oid": "650d679135dd56eb000b8cfb"
+        }
+      },
+      {
+        "name": "jitendra  Das",
+        "phoneNumber": {
+          "$numberLong": "7853976959"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-23T02:52:47.969Z"
+        },
+        "bookingId": 14583702,
+        "_id": {
+          "$oid": "650e52ff35dd56eb000ce646"
+        }
+      },
+      {
+        "name": "Parwez alam",
+        "phoneNumber": {
+          "$numberLong": "7631022850"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-23T08:36:11.682Z"
+        },
+        "bookingId": 82460321,
+        "_id": {
+          "$oid": "650ea37b35dd56eb000ea911"
+        }
+      },
+      {
+        "name": "Brajendra Gopal",
+        "phoneNumber": {
+          "$numberLong": "9709617093"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T12:43:00.706Z"
+        },
+        "bookingId": 45583821,
+        "_id": {
+          "$oid": "65102ed435dd56eb0014f7f3"
+        }
+      },
+      {
+        "name": "Brajendra Gopal",
+        "phoneNumber": {
+          "$numberLong": "9709617093"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T12:43:04.323Z"
+        },
+        "bookingId": 1302331,
+        "_id": {
+          "$oid": "65102ed835dd56eb0014f815"
+        }
+      },
+      {
+        "name": "Sonu Kumar",
+        "phoneNumber": {
+          "$numberLong": "6363272956"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:33:20.792Z"
+        },
+        "bookingId": 81481785,
+        "_id": {
+          "$oid": "65111ba035dd56eb00175364"
+        }
+      },
+      {
+        "name": "Manoj Samoda",
+        "phoneNumber": {
+          "$numberLong": "8720020772"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T05:34:37.036Z"
+        },
+        "bookingId": 99189955,
+        "_id": {
+          "$oid": "65126d6d35dd56eb001b87c2"
+        }
+      },
+      {
+        "name": "Sonu Kumar",
+        "phoneNumber": {
+          "$numberLong": "6363272956"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T06:01:53.001Z"
+        },
+        "bookingId": 43299666,
+        "_id": {
+          "$oid": "651273d135dd56eb001bd4b2"
+        }
+      },
+      {
+        "name": "Sonu Kumar",
+        "phoneNumber": {
+          "$numberLong": "6363272956"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T06:01:57.009Z"
+        },
+        "bookingId": 9748138,
+        "_id": {
+          "$oid": "651273d535dd56eb001bd4d8"
+        }
+      },
+      {
+        "name": "Ritesk Kumar",
+        "phoneNumber": {
+          "$numberLong": "7456843838"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T08:45:07.232Z"
+        },
+        "bookingId": 11458219,
+        "_id": {
+          "$oid": "65129a1335dd56eb001ceffc"
+        }
+      },
+      {
+        "name": "aman panday ",
+        "phoneNumber": {
+          "$numberLong": "8210811163"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T11:37:27.923Z"
+        },
+        "bookingId": 9278964,
+        "_id": {
+          "$oid": "6512c27735dd56eb001da7d3"
+        }
+      },
+      {
+        "name": "aman panday ",
+        "phoneNumber": {
+          "$numberLong": "8210811163"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T11:37:31.724Z"
+        },
+        "bookingId": 11231928,
+        "_id": {
+          "$oid": "6512c27b35dd56eb001da7fc"
+        }
+      },
+      {
+        "name": "aman panday ",
+        "phoneNumber": {
+          "$numberLong": "8210811163"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T11:37:41.276Z"
+        },
+        "bookingId": 47118996,
+        "_id": {
+          "$oid": "6512c28535dd56eb001da85b"
+        }
+      },
+      {
+        "name": "Ritesk Kumar",
+        "phoneNumber": {
+          "$numberLong": "7456843838"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T04:49:02.213Z"
+        },
+        "bookingId": 60092846,
+        "_id": {
+          "$oid": "6513b43e35dd56eb00202b27"
+        }
+      },
+      {
+        "name": "Ritesk Kumar",
+        "phoneNumber": {
+          "$numberLong": "7456843838"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T11:29:09.001Z"
+        },
+        "bookingId": 38844782,
+        "_id": {
+          "$oid": "6514120535dd56eb0022dd2c"
+        }
+      },
+      {
+        "name": "Ranjan Kumar",
+        "phoneNumber": {
+          "$numberLong": "9500849935"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T12:11:34.854Z"
+        },
+        "bookingId": 99404175,
+        "_id": {
+          "$oid": "65141bf635dd56eb0022ffcd"
+        }
+      },
+      {
+        "name": "hardik parmar",
+        "phoneNumber": {
+          "$numberLong": "9228424247"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T05:54:52.036Z"
+        },
+        "bookingId": 15274903,
+        "_id": {
+          "$oid": "6515152c35dd56eb002731c1"
+        }
+      },
+      {
+        "name": "Akhilesh Oraon",
+        "phoneNumber": {
+          "$numberLong": "7050092371"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T10:27:18.583Z"
+        },
+        "bookingId": 98515927,
+        "_id": {
+          "$oid": "6515550635dd56eb0028bb9a"
+        }
+      },
+      {
+        "name": "hardik parmar",
+        "phoneNumber": {
+          "$numberLong": "9228424247"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T05:36:33.988Z"
+        },
+        "bookingId": 88060831,
+        "_id": {
+          "$oid": "6516626135dd56eb002ccfd4"
+        }
+      },
+      {
+        "name": "hardik parmar",
+        "phoneNumber": {
+          "$numberLong": "9228424247"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-30T04:57:27.779Z"
+        },
+        "bookingId": 92097995,
+        "_id": {
+          "$oid": "6517aab735dd56eb0031ddbd"
+        }
+      },
+      {
+        "name": "Sahil Kuraishi ",
+        "phoneNumber": {
+          "$numberLong": "8102607032"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-30T07:45:50.779Z"
+        },
+        "bookingId": 97649768,
+        "_id": {
+          "$oid": "6517d22e35dd56eb00330bef"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T05:11:43.402Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-30T07:45:50.787Z"
+    },
+    "__v": 45,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd0d"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650293fe4439f06c8db2fd0c"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd0f"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd10"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd11"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd12"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd13"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd14"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd15"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650293fe4439f06c8db2fd16"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650293fe4439f06c8db2fd0e"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c895a7262fb736760dc575"
+    },
+    "hotelName": "OXY RR RESIDENCY",
+    "hotelId": "OXY2004",
+    "phoneNo": "9155596594",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/074e12f0-c1c9-4bbe-9c70-1e06d2a70875.png",
+          "/hotelImages/img/745a7957-420c-4390-82a8-425dcbe76eb6.png",
+          "/hotelImages/img/fb9e6015-7c84-4893-bc0c-0a8b5e07c784.png",
+          "/hotelImages/img/2a4292eb-c206-44b3-a566-80f649705b99.png",
+          "/hotelImages/img/312b6144-28a8-4605-8d80-c3a28d90484a.png"
+        ],
+        "_id": {
+          "$oid": "650295374439f06c8db2fda7"
+        }
+      }
+    ],
+    "latitude": 23.3733782,
+    "longitude": 85.3166322,
+    "hotelAddress": "Upper Bazar, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/Capital+O+OXY+R+R+Residency/@23.3733782,85.3166322,17z/data=!3m1!4b1!4m10!3m9!1s0x39f4e1498334c391:0xf157b4e37a06f5cc!5m3!1s2023-08-03!4m1!1i2!8m2!3d23.3733733!4d85.3192071!16s%2Fg%2F11rn3xrs_1?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 36,
+        "features": [],
+        "_id": {
+          "$oid": "650295374439f06c8db2fda8"
+        }
+      }
+    ],
+    "minPrice": 600,
+    "maxPrice": 1500,
+    "noOfRatings": 1,
+    "rating": 4,
+    "reviews": [
+      {
+        "name": "Ajay kumar munda ",
+        "phoneNumber": {
+          "$numberLong": "7004217924"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T01:34:30.793Z"
+        },
+        "bookingId": 36815104,
+        "_id": {
+          "$oid": "6512352635dd56eb001a6936"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T05:18:31.959Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-26T01:34:37.213Z"
+    },
+    "__v": 1,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdaa"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdab"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdac"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdad"
+            }
+          },
+          {
+            "roomNo": 105,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdae"
+            }
+          },
+          {
+            "roomNo": 106,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdaf"
+            }
+          },
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb0"
+            }
+          },
+          {
+            "roomNo": 108,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb1"
+            }
+          },
+          {
+            "roomNo": 109,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb2"
+            }
+          },
+          {
+            "roomNo": 110,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650295374439f06c8db2fda9"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb5"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb6"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb7"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb8"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdb9"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdba"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdbb"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdbc"
+            }
+          },
+          {
+            "roomNo": 209,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdbd"
+            }
+          },
+          {
+            "roomNo": 210,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdbe"
+            }
+          },
+          {
+            "roomNo": 211,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdbf"
+            }
+          },
+          {
+            "roomNo": 212,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc0"
+            }
+          },
+          {
+            "roomNo": 213,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc1"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650295374439f06c8db2fdb4"
+        }
+      },
+      {
+        "floorNo": 3,
+        "rooms": [
+          {
+            "roomNo": 301,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc3"
+            }
+          },
+          {
+            "roomNo": 302,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc4"
+            }
+          },
+          {
+            "roomNo": 303,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc5"
+            }
+          },
+          {
+            "roomNo": 304,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc6"
+            }
+          },
+          {
+            "roomNo": 305,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc7"
+            }
+          },
+          {
+            "roomNo": 306,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc8"
+            }
+          },
+          {
+            "roomNo": 307,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdc9"
+            }
+          },
+          {
+            "roomNo": 308,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdca"
+            }
+          },
+          {
+            "roomNo": 309,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdcb"
+            }
+          },
+          {
+            "roomNo": 310,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdcc"
+            }
+          },
+          {
+            "roomNo": 311,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdcd"
+            }
+          },
+          {
+            "roomNo": 312,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdce"
+            }
+          },
+          {
+            "roomNo": 313,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650295374439f06c8db2fdcf"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650295374439f06c8db2fdc2"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8992b262fb736760dc591"
+    },
+    "hotelName": "OXY SHIVANI",
+    "hotelId": "OXY2005",
+    "phoneNo": "9155596998",
+    "imageData": [
+      {
+        "type": "Rooms",
+        "images": [
+          "/hotelImages/img/8223b649-234d-43f5-b554-8ff161bbf736.png",
+          "/hotelImages/img/d9548c94-5940-4d97-9828-8c58dd558a65.png",
+          "/hotelImages/img/64da2070-9205-4fcb-9f56-f4295c27d091.png",
+          "/hotelImages/img/3b89456d-4421-4e6f-8e88-35a3b2d9d44a.png",
+          "/hotelImages/img/d37b11c4-2207-4d77-96bf-ee64deb38f2b.png"
+        ],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc5b"
+        }
+      }
+    ],
+    "latitude": 23.3619288,
+    "longitude": 85.3388493,
+    "hotelAddress": "Khadgara Bus Stand, Kantatoli, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/OYO+Oxy+Hotel+Shivani/@23.3619288,85.3388493,17z/data=!4m10!3m9!1s0x39f4e14261941289:0x20dfb33911f5f5df!5m3!1s2023-08-03!4m1!1i2!8m2!3d23.361924!4d85.3437202!16s%2Fg%2F11sqh6_kl1?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 33,
+        "features": [],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc5c"
+        }
+      }
+    ],
+    "minPrice": 700,
+    "maxPrice": 1500,
+    "noOfRatings": 47,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "name": "Piyush Kumar",
+        "phoneNumber": {
+          "$numberLong": "9123147576"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T05:52:05.985Z"
+        },
+        "bookingId": 76530097,
+        "_id": {
+          "$oid": "64dc6405c4744b5c3878764b"
+        }
+      },
+      {
+        "name": "Abhishek Singh",
+        "phoneNumber": {
+          "$numberLong": "9102262418"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T06:32:35.737Z"
+        },
+        "bookingId": 15073136,
+        "_id": {
+          "$oid": "64dc6d83c4744b5c38787b7c"
+        }
+      },
+      {
+        "name": "Vimal dalvadi ",
+        "phoneNumber": {
+          "$numberLong": "9033010847"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T06:43:17.948Z"
+        },
+        "bookingId": 70384057,
+        "_id": {
+          "$oid": "64dc7005c4744b5c38787c84"
+        }
+      },
+      {
+        "name": "Vimal dalvadi ",
+        "phoneNumber": {
+          "$numberLong": "9033010847"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T06:43:36.803Z"
+        },
+        "bookingId": 72851726,
+        "_id": {
+          "$oid": "64dc7018c4744b5c38787c9d"
+        }
+      },
+      {
+        "name": "Vimal dalvadi ",
+        "phoneNumber": {
+          "$numberLong": "9033010847"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T06:43:43.928Z"
+        },
+        "bookingId": 50195865,
+        "_id": {
+          "$oid": "64dc701fc4744b5c38787ca7"
+        }
+      },
+      {
+        "name": "Bhubneshwar Mahto",
+        "phoneNumber": {
+          "$numberLong": "8102280894"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good staff behaviour ",
+        "date": {
+          "$date": "2023-08-16T09:38:22.858Z"
+        },
+        "bookingId": 29544662,
+        "_id": {
+          "$oid": "64dc990ec4744b5c387893fe"
+        }
+      },
+      {
+        "name": "Akash Yadav",
+        "phoneNumber": {
+          "$numberLong": "9835837169"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good stay nice experience staaf\n",
+        "date": {
+          "$date": "2023-08-16T09:51:02.648Z"
+        },
+        "bookingId": 73494428,
+        "_id": {
+          "$oid": "64dc9c06c4744b5c3878972a"
+        }
+      },
+      {
+        "name": "Sanjay kr Mahato",
+        "phoneNumber": {
+          "$numberLong": "7294049356"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "awesome\n",
+        "date": {
+          "$date": "2023-08-16T11:49:53.035Z"
+        },
+        "bookingId": 38740125,
+        "_id": {
+          "$oid": "64dcb7e1c4744b5c3878a41a"
+        }
+      },
+      {
+        "name": "Vamshi Velishala",
+        "phoneNumber": {
+          "$numberLong": "8328692428"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-16T12:08:34.323Z"
+        },
+        "bookingId": 12092324,
+        "_id": {
+          "$oid": "64dcbc42c4744b5c3878a978"
+        }
+      },
+      {
+        "name": "Deoraj Kumar",
+        "phoneNumber": {
+          "$numberLong": "9060181374"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "Everything is ok\n",
+        "date": {
+          "$date": "2023-08-17T08:54:15.433Z"
+        },
+        "bookingId": 56891521,
+        "_id": {
+          "$oid": "64dde037c4744b5c3878fe4b"
+        }
+      },
+      {
+        "name": "VIKRAM KUMAR",
+        "phoneNumber": {
+          "$numberLong": "7488553419"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good staff behaviour ",
+        "date": {
+          "$date": "2023-08-17T08:57:56.779Z"
+        },
+        "bookingId": 25758599,
+        "_id": {
+          "$oid": "64dde114c4744b5c3878feb6"
+        }
+      },
+      {
+        "name": "Hira Nayak",
+        "phoneNumber": {
+          "$numberLong": "8797000723"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good staff behaviour ",
+        "date": {
+          "$date": "2023-08-19T05:36:00.729Z"
+        },
+        "bookingId": 64196832,
+        "_id": {
+          "$oid": "64e054c0c4744b5c3879a289"
+        }
+      },
+      {
+        "name": "piyush kumar sah ",
+        "phoneNumber": {
+          "$numberLong": "7004575570"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-20T05:53:45.119Z"
+        },
+        "bookingId": 53991965,
+        "_id": {
+          "$oid": "64e1aa69c4744b5c387a1d5e"
+        }
+      },
+      {
+        "name": "Hira Nayak",
+        "phoneNumber": {
+          "$numberLong": "8797000723"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good staf behaviour, everything is fine good stay good food good location ",
+        "date": {
+          "$date": "2023-08-20T05:58:35.213Z"
+        },
+        "bookingId": 73220610,
+        "_id": {
+          "$oid": "64e1ab8bc4744b5c387a1eac"
+        }
+      },
+      {
+        "name": "Amit Kumar",
+        "phoneNumber": {
+          "$numberLong": "9771227489"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "Amazing ",
+        "date": {
+          "$date": "2023-08-20T06:15:31.820Z"
+        },
+        "bookingId": 25189046,
+        "_id": {
+          "$oid": "64e1af83c4744b5c387a24b9"
+        }
+      },
+      {
+        "name": "Vikash Kumar",
+        "phoneNumber": {
+          "$numberLong": "7004032667"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "location perfect staff is very experienced ",
+        "date": {
+          "$date": "2023-08-20T12:28:39.185Z"
+        },
+        "bookingId": 93036137,
+        "_id": {
+          "$oid": "64e206f7c4744b5c387a4de5"
+        }
+      },
+      {
+        "name": "PrabhaT Toppo",
+        "phoneNumber": {
+          "$numberLong": "8709438761"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and p\nrovides very good service.",
+        "date": {
+          "$date": "2023-08-20T13:59:51.690Z"
+        },
+        "bookingId": 32328989,
+        "_id": {
+          "$oid": "64e21c57c4744b5c387a5b42"
+        }
+      },
+      {
+        "name": "SATYAM",
+        "phoneNumber": {
+          "$numberLong": "93411708889"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-26T12:24:51.623Z"
+        },
+        "bookingId": 7175061,
+        "_id": {
+          "$oid": "64e9ef1377b115e542014284"
+        }
+      },
+      {
+        "name": "adarsh deo",
+        "phoneNumber": {
+          "$numberLong": "9520949128"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "supportive staaf",
+        "date": {
+          "$date": "2023-08-27T04:36:00.613Z"
+        },
+        "bookingId": 41604507,
+        "_id": {
+          "$oid": "64ead2b077b115e542020f33"
+        }
+      },
+      {
+        "name": "Rajnish Singh",
+        "phoneNumber": {
+          "$numberLong": "9199102598"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "verycooperative staf",
+        "date": {
+          "$date": "2023-08-27T05:18:40.066Z"
+        },
+        "bookingId": 96791281,
+        "_id": {
+          "$oid": "64eadcb077b115e542022380"
+        }
+      },
+      {
+        "name": "Upendra Kumar",
+        "phoneNumber": {
+          "$numberLong": "9798756910"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-27T06:56:26.598Z"
+        },
+        "bookingId": 69389838,
+        "_id": {
+          "$oid": "64eaf39ac3b43d379c78ca50"
+        }
+      },
+      {
+        "name": "Vikash Kumar Vishwakarma",
+        "phoneNumber": {
+          "$numberLong": "7667626055"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-28T04:43:58.243Z"
+        },
+        "bookingId": 10340851,
+        "_id": {
+          "$oid": "64ec260e75e1359ae1587d96"
+        }
+      },
+      {
+        "name": "Binod kumar",
+        "phoneNumber": {
+          "$numberLong": "8340618608"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "very good, so happy stay in this hotel",
+        "date": {
+          "$date": "2023-08-29T05:08:02.903Z"
+        },
+        "bookingId": 85241162,
+        "_id": {
+          "$oid": "64ed7d3275e1359ae15b2ebe"
+        }
+      },
+      {
+        "name": "Ramanuj Rajesh",
+        "phoneNumber": {
+          "$numberLong": "7000983962"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-29T12:47:05.595Z"
+        },
+        "bookingId": 40518244,
+        "_id": {
+          "$oid": "64ede8c975e1359ae15be5ae"
+        }
+      },
+      {
+        "name": "Sonu Kumar",
+        "phoneNumber": {
+          "$numberLong": "9523905529"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "nice stay in this hotel\n",
+        "date": {
+          "$date": "2023-09-01T02:18:01.884Z"
+        },
+        "bookingId": 1058214,
+        "_id": {
+          "$oid": "64f149d975e1359ae15edb67"
+        }
+      },
+      {
+        "name": "mohan mahto",
+        "phoneNumber": {
+          "$numberLong": "9905770480"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "ranchi ka sabse achha hotel hain",
+        "date": {
+          "$date": "2023-09-02T11:26:37.435Z"
+        },
+        "bookingId": 8570663,
+        "_id": {
+          "$oid": "64f31bedecb62e29fea492ea"
+        }
+      },
+      {
+        "name": "Rajendra Mahato ",
+        "phoneNumber": {
+          "$numberLong": "9835901273"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-03T14:35:37.152Z"
+        },
+        "bookingId": 367552,
+        "_id": {
+          "$oid": "64f499b9b5ffab82f53bde96"
+        }
+      },
+      {
+        "name": "Anurag ravi kujur",
+        "phoneNumber": {
+          "$numberLong": "8287367186"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.thanks for hotel shivani",
+        "date": {
+          "$date": "2023-09-04T07:42:13.450Z"
+        },
+        "bookingId": 97085799,
+        "_id": {
+          "$oid": "64f58a5515aca40249c9441b"
+        }
+      },
+      {
+        "name": "Bulesh Singh",
+        "phoneNumber": {
+          "$numberLong": "6205072439"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "good staff service and good food on proper time ",
+        "date": {
+          "$date": "2023-09-04T10:19:55.307Z"
+        },
+        "bookingId": 68156900,
+        "_id": {
+          "$oid": "64f5af4b15aca40249c99c19"
+        }
+      },
+      {
+        "name": "Deepak Tudu",
+        "phoneNumber": {
+          "$numberLong": "6204532039"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "service is really so good and good location ",
+        "date": {
+          "$date": "2023-09-04T10:26:13.236Z"
+        },
+        "bookingId": 39833066,
+        "_id": {
+          "$oid": "64f5b0c515aca40249c99e2e"
+        }
+      },
+      {
+        "name": "Bhadwa Oraon",
+        "phoneNumber": {
+          "$numberLong": "6202974430"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was really nice and safe \n",
+        "date": {
+          "$date": "2023-09-14T10:10:05.764Z"
+        },
+        "bookingId": 56767798,
+        "_id": {
+          "$oid": "6502dbfdfe1dc80808f66a10"
+        }
+      },
+      {
+        "name": "Sumit Kachhap",
+        "phoneNumber": {
+          "$numberLong": "8271920703"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T11:49:16.912Z"
+        },
+        "bookingId": 37682100,
+        "_id": {
+          "$oid": "6502f33cfe1dc80808f6b3a6"
+        }
+      },
+      {
+        "name": "Avinash Lakra",
+        "phoneNumber": {
+          "$numberLong": "7992456261"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T12:15:44.899Z"
+        },
+        "bookingId": 56019834,
+        "_id": {
+          "$oid": "6502f970fe1dc80808f6dc40"
+        }
+      },
+      {
+        "name": "Anil Pradhan",
+        "phoneNumber": {
+          "$numberLong": "7296081400"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T13:27:11.515Z"
+        },
+        "bookingId": 84554247,
+        "_id": {
+          "$oid": "65030a2ffe1dc80808f6f4c0"
+        }
+      },
+      {
+        "name": "Aman ",
+        "phoneNumber": {
+          "$numberLong": "9693856788"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-16T05:58:03.957Z"
+        },
+        "bookingId": 73367144,
+        "_id": {
+          "$oid": "650543ebfe1dc80808fae549"
+        }
+      },
+      {
+        "name": "mohit kumar ",
+        "phoneNumber": {
+          "$numberLong": "9608248496"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-16T09:52:37.586Z"
+        },
+        "bookingId": 31132681,
+        "_id": {
+          "$oid": "65057ae5fe1dc80808fbcc63"
+        }
+      },
+      {
+        "name": "Suraj Thakur",
+        "phoneNumber": {
+          "$numberLong": "9693323112"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T09:50:30.388Z"
+        },
+        "bookingId": 5627172,
+        "_id": {
+          "$oid": "65081d669dc6170253867561"
+        }
+      },
+      {
+        "name": "Pankaj Kumar",
+        "phoneNumber": {
+          "$numberLong": "9199268599"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T11:27:14.359Z"
+        },
+        "bookingId": 98850233,
+        "_id": {
+          "$oid": "6509859249740f37c0c7de2b"
+        }
+      },
+      {
+        "name": "shahid ahmed",
+        "phoneNumber": {
+          "$numberLong": "6201471346"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "perfect location and good staff ",
+        "date": {
+          "$date": "2023-09-20T07:59:55.171Z"
+        },
+        "bookingId": 42176676,
+        "_id": {
+          "$oid": "650aa67b16b040ec575213a5"
+        }
+      },
+      {
+        "name": "hk m",
+        "phoneNumber": {
+          "$numberLong": "7870329275"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T06:07:44.342Z"
+        },
+        "bookingId": 67848819,
+        "_id": {
+          "$oid": "650bddb016b040ec5754d565"
+        }
+      },
+      {
+        "name": "nomad arshu",
+        "phoneNumber": {
+          "$numberLong": "7781998216"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "The hotel was amazing and provides very good service thnx all staff.",
+        "date": {
+          "$date": "2023-09-22T13:44:09.111Z"
+        },
+        "bookingId": 91021195,
+        "_id": {
+          "$oid": "650d9a2935dd56eb000c1f19"
+        }
+      },
+      {
+        "name": "suraj ray",
+        "phoneNumber": {
+          "$numberLong": "9931755856"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T15:41:50.530Z"
+        },
+        "bookingId": 8677517,
+        "_id": {
+          "$oid": "650db5be35dd56eb000c64a5"
+        }
+      },
+      {
+        "name": "Sanjay Yadav",
+        "phoneNumber": {
+          "$numberLong": "8340502548"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-23T09:31:35.530Z"
+        },
+        "bookingId": 16633743,
+        "_id": {
+          "$oid": "650eb07735dd56eb000f16b3"
+        }
+      },
+      {
+        "name": "Raj Nishant ",
+        "phoneNumber": {
+          "$numberLong": "8235494625"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:47:44.782Z"
+        },
+        "bookingId": 57178738,
+        "_id": {
+          "$oid": "65111f0035dd56eb0017791e"
+        }
+      },
+      {
+        "name": "SACHIN KUMAR BEDIA",
+        "phoneNumber": {
+          "$numberLong": "62201412392"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T08:39:48.963Z"
+        },
+        "bookingId": 84914645,
+        "_id": {
+          "$oid": "6513ea5435dd56eb0021fc3c"
+        }
+      },
+      {
+        "name": "Dhiraj Kumar ",
+        "phoneNumber": {
+          "$numberLong": "7004123103"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T09:37:00.843Z"
+        },
+        "bookingId": 76196642,
+        "_id": {
+          "$oid": "6513f7bc35dd56eb002250ed"
+        }
+      },
+      {
+        "name": "mohit singh",
+        "phoneNumber": {
+          "$numberLong": "8877279712"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T14:06:29.652Z"
+        },
+        "bookingId": 25455039,
+        "_id": {
+          "$oid": "6516d9e535dd56eb0030428a"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T05:33:31.012Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-29T14:06:29.658Z"
+    },
+    "__v": 47,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc5e"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc5f"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc60"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc61"
+            }
+          },
+          {
+            "roomNo": 105,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc62"
+            }
+          },
+          {
+            "roomNo": 106,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc63"
+            }
+          },
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc64"
+            }
+          },
+          {
+            "roomNo": 108,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc65"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc5d"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc67"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc68"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc69"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6a"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6b"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6c"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6d"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6e"
+            }
+          },
+          {
+            "roomNo": 209,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc6f"
+            }
+          },
+          {
+            "roomNo": 210,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc70"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc66"
+        }
+      },
+      {
+        "floorNo": 3,
+        "rooms": [
+          {
+            "roomNo": 301,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc72"
+            }
+          },
+          {
+            "roomNo": 302,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc73"
+            }
+          },
+          {
+            "roomNo": 303,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc74"
+            }
+          },
+          {
+            "roomNo": 304,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc75"
+            }
+          },
+          {
+            "roomNo": 305,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc76"
+            }
+          },
+          {
+            "roomNo": 306,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc77"
+            }
+          },
+          {
+            "roomNo": 307,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc78"
+            }
+          },
+          {
+            "roomNo": 308,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc79"
+            }
+          },
+          {
+            "roomNo": 309,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc7a"
+            }
+          },
+          {
+            "roomNo": 310,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc7b"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc71"
+        }
+      },
+      {
+        "floorNo": 4,
+        "rooms": [
+          {
+            "roomNo": 401,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc7d"
+            }
+          },
+          {
+            "roomNo": 402,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc7e"
+            }
+          },
+          {
+            "roomNo": 403,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc7f"
+            }
+          },
+          {
+            "roomNo": 404,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc80"
+            }
+          },
+          {
+            "roomNo": 406,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650292df4439f06c8db2fc81"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650292df4439f06c8db2fc7c"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c89faa262fb736760dc62d"
+    },
+    "hotelName": "OXY HERITAGE ",
+    "hotelId": "OXY2006",
+    "phoneNo": "9006848333",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/079c9478-01d8-472d-a014-a2eb106d4616.png",
+          "/hotelImages/img/2b5d4d69-bb27-47cc-9695-52822ad8cc6e.png",
+          "/hotelImages/img/e2aaafe4-cfe6-4802-8d1f-72702a6b1054.png",
+          "/hotelImages/img/e2aaafe4-cfe6-4802-8d1f-72702a6b1054.png",
+          "/hotelImages/img/62810268-eac2-4a0b-89ed-2cc8c899bcb8.png"
+        ],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451450"
+        }
+      }
+    ],
+    "latitude": 23.3666869,
+    "longitude": 85.3216701,
+    "hotelAddress": "Old Taxi Stand, Main Road, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/OYO+Hotel+Oxy+Heritage/@23.3666869,85.3216701,17z/data=!3m1!4b1!4m10!3m9!1s0x39f4e1a703258b49:0x97d662dbbe8563bc!5m3!1s2023-08-03!4m1!1i2!8m2!3d23.366682!4d85.324245!16s%2Fg%2F11g3j8vctf?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 13,
+        "features": [],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451451"
+        }
+      }
+    ],
+    "minPrice": 1000,
+    "maxPrice": 1500,
+    "noOfRatings": 0,
+    "rating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-08-01T06:01:14.835Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-13T14:01:15.618Z"
+    },
+    "__v": 0,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451453"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451454"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451455"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451456"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451452"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451457"
+        }
+      },
+      {
+        "floorNo": 3,
+        "rooms": [],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451458"
+        }
+      },
+      {
+        "floorNo": 4,
+        "rooms": [
+          {
+            "roomNo": 401,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145a"
+            }
+          },
+          {
+            "roomNo": 402,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145b"
+            }
+          },
+          {
+            "roomNo": 403,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145c"
+            }
+          },
+          {
+            "roomNo": 404,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145d"
+            }
+          },
+          {
+            "roomNo": 405,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145e"
+            }
+          },
+          {
+            "roomNo": 406,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e345145f"
+            }
+          },
+          {
+            "roomNo": 407,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451460"
+            }
+          },
+          {
+            "roomNo": 408,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451461"
+            }
+          },
+          {
+            "roomNo": 409,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6501c0ab80647025e3451462"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6501c0ab80647025e3451459"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8a117262fb736760dc65e"
+    },
+    "hotelName": "OXY PRASHANT",
+    "hotelId": "OXY2007",
+    "phoneNo": "9155596549",
+    "imageData": [
+      {
+        "type": "Rooms",
+        "images": [
+          "/hotelImages/img/31b8fdf7-23f1-4e6d-bb12-f1f01a6b83d5.png",
+          "/hotelImages/img/983ec1f5-9ef5-4591-8b25-f9706642cdf7.png",
+          "/hotelImages/img/b323b4cd-62d2-4d9f-9f3b-ea9be77cd55a.png",
+          "/hotelImages/img/8b96aec5-cf5b-4143-951b-6f5e94763c77.png"
+        ],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd42"
+        }
+      }
+    ],
+    "latitude": 23.2987172,
+    "longitude": 85.3152387,
+    "hotelAddress": "Singh More, Vikas Nagar, Rachi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/@23.2987172,85.3152387,17z?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 12,
+        "features": [],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd43"
+        }
+      }
+    ],
+    "minPrice": 900,
+    "maxPrice": 1500,
+    "noOfRatings": 0,
+    "rating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-08-01T06:07:19.784Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-14T05:04:30.611Z"
+    },
+    "__v": 0,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd45"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd46"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd47"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd44"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd49"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd4a"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd4b"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd48"
+        }
+      },
+      {
+        "floorNo": 3,
+        "rooms": [
+          {
+            "roomNo": 301,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd4d"
+            }
+          },
+          {
+            "roomNo": 302,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd4e"
+            }
+          },
+          {
+            "roomNo": 303,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd4f"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd4c"
+        }
+      },
+      {
+        "floorNo": 4,
+        "rooms": [
+          {
+            "roomNo": 401,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd51"
+            }
+          },
+          {
+            "roomNo": 402,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd52"
+            }
+          },
+          {
+            "roomNo": 403,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502945e4439f06c8db2fd53"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6502945e4439f06c8db2fd50"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8a257262fb736760dc677"
+    },
+    "hotelName": "OXY DELIGHT",
+    "hotelId": "OXY2008",
+    "phoneNo": "9155596558",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/e67a2830-eb94-4075-9ae3-08c4ba79fd41.png",
+          "/hotelImages/img/ea814a66-9e33-42b3-96ed-d804ff4f9fbe.png",
+          "/hotelImages/img/2faf48e0-5020-48e7-abf9-87f5edeab5b6.png",
+          "/hotelImages/img/e0712426-3e91-4235-8fac-fa115c73c04d.png",
+          "/hotelImages/img/7f144b40-6dbe-460c-bd6c-f67702a0b6b7.png",
+          "/hotelImages/img/38d70ace-bb06-4835-aaf3-f9f6a5dafef0.png",
+          "/hotelImages/img/91079d25-c9d8-4f16-8ea5-8d4c94bd7904.png"
+        ],
+        "_id": {
+          "$oid": "6502932d4439f06c8db2fce1"
+        }
+      }
+    ],
+    "latitude": 23.3778651,
+    "longitude": 85.3188942,
+    "hotelAddress": "Kali Babu Street, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/@23.3778651,85.3188942,16.82z?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 16,
+        "features": [],
+        "_id": {
+          "$oid": "6502932d4439f06c8db2fce2"
+        }
+      }
+    ],
+    "minPrice": 800,
+    "maxPrice": 1500,
+    "noOfRatings": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "name": "taranhar ojha ",
+        "phoneNumber": {
+          "$numberLong": "7004780862"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-25T12:03:14.102Z"
+        },
+        "bookingId": 89505262,
+        "_id": {
+          "$oid": "64e89882c2f827500163ebfc"
+        }
+      },
+      {
+        "name": "aquib jawed ",
+        "phoneNumber": {
+          "$numberLong": "8271059148"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T15:50:59.635Z"
+        },
+        "bookingId": 53490060,
+        "_id": {
+          "$oid": "650db7e335dd56eb000c70bf"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T06:12:39.883Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-22T15:50:59.637Z"
+    },
+    "__v": 2,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce4"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce5"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce6"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce7"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce8"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fce9"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcea"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fceb"
+            }
+          },
+          {
+            "roomNo": 209,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcec"
+            }
+          },
+          {
+            "roomNo": 210,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fced"
+            }
+          },
+          {
+            "roomNo": 211,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcee"
+            }
+          },
+          {
+            "roomNo": 212,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcef"
+            }
+          },
+          {
+            "roomNo": 213,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcf0"
+            }
+          },
+          {
+            "roomNo": 214,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcf1"
+            }
+          },
+          {
+            "roomNo": 215,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcf2"
+            }
+          },
+          {
+            "roomNo": 216,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "6502932d4439f06c8db2fcf3"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "6502932d4439f06c8db2fce3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8a478262fb736760dc67d"
+    },
+    "hotelName": "OXY DREAM INN",
+    "hotelId": "OXY2009",
+    "phoneNo": "9155596372",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/e73819a8-8fcc-4108-b8fc-1d06602748e5.png",
+          "/hotelImages/img/7b20f185-0a5d-4ac0-819c-9e2349e651c7.png",
+          "/hotelImages/img/b0d92053-7aa8-4a54-9034-69a133194ee0.png",
+          "/hotelImages/img/8471899f-e0c1-4809-be06-de73ea65e1eb.png",
+          "/hotelImages/img/2d262ad2-1d92-4880-bc11-934e0f9bcf62.png",
+          "/hotelImages/img/61455af3-79a5-4899-906d-9a2efe5f9f39.png"
+        ],
+        "_id": {
+          "$oid": "650294d24439f06c8db2fd68"
+        }
+      }
+    ],
+    "latitude": 23.3814925,
+    "longitude": 85.298401,
+    "hotelAddress": "Ratu Road, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/@23.3814925,85.298401,17z/data=!3m1!4b1?entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 24,
+        "features": [],
+        "_id": {
+          "$oid": "650294d24439f06c8db2fd69"
+        }
+      }
+    ],
+    "minPrice": 600,
+    "maxPrice": 1500,
+    "noOfRatings": 57,
+    "rating": 3.6,
+    "reviews": [
+      {
+        "name": "Suraj Kr pandey",
+        "phoneNumber": {
+          "$numberLong": "7700804475"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-05T07:30:55.802Z"
+        },
+        "bookingId": 742883,
+        "_id": {
+          "$oid": "64cdfaaf014f179133fe6760"
+        }
+      },
+      {
+        "name": "solty singh",
+        "phoneNumber": {
+          "$numberLong": "8825288157"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-27T06:07:16.788Z"
+        },
+        "bookingId": 93610320,
+        "_id": {
+          "$oid": "64eae81477b115e542023be7"
+        }
+      },
+      {
+        "name": "Nishita Kumari",
+        "phoneNumber": {
+          "$numberLong": "7061979358"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-30T08:14:49.134Z"
+        },
+        "bookingId": 9362146,
+        "_id": {
+          "$oid": "64eefa7975e1359ae15d1458"
+        }
+      },
+      {
+        "name": "AmIT kumar",
+        "phoneNumber": {
+          "$numberLong": "8825183362"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-02T04:50:33.829Z"
+        },
+        "bookingId": 45887039,
+        "_id": {
+          "$oid": "64f2bf19ecb62e29fea3a169"
+        }
+      },
+      {
+        "name": "sanu",
+        "phoneNumber": {
+          "$numberLong": "9835757361"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "very poor food....",
+        "date": {
+          "$date": "2023-09-03T16:17:32.459Z"
+        },
+        "bookingId": 51951315,
+        "_id": {
+          "$oid": "64f4b19cb5ffab82f53bf26e"
+        }
+      },
+      {
+        "name": "Rajeev Kumar Tiwari",
+        "phoneNumber": {
+          "$numberLong": "8210527294"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T08:27:02.346Z"
+        },
+        "bookingId": 51040100,
+        "_id": {
+          "$oid": "6502c3d6fe1dc80808f636c6"
+        }
+      },
+      {
+        "name": "Rajeev Verma",
+        "phoneNumber": {
+          "$numberLong": "8235995543"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-14T09:05:14.279Z"
+        },
+        "bookingId": 65696458,
+        "_id": {
+          "$oid": "6502cccafe1dc80808f65d8c"
+        }
+      },
+      {
+        "name": "Aman Kumar",
+        "phoneNumber": {
+          "$numberLong": "8210233765"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service. good ",
+        "date": {
+          "$date": "2023-09-15T09:07:42.396Z"
+        },
+        "bookingId": 46548634,
+        "_id": {
+          "$oid": "65041edefe1dc80808f8faa5"
+        }
+      },
+      {
+        "name": "Achyut",
+        "phoneNumber": {
+          "$numberLong": "8123060360"
+        },
+        "ratingLevel": 0,
+        "ratingNote": "T",
+        "date": {
+          "$date": "2023-09-16T05:24:16.063Z"
+        },
+        "bookingId": 57700638,
+        "_id": {
+          "$oid": "65053c00fe1dc80808fab6ae"
+        }
+      },
+      {
+        "name": "nayan kashyap",
+        "phoneNumber": {
+          "$numberLong": "8804116942"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-17T07:13:57.324Z"
+        },
+        "bookingId": 93951276,
+        "_id": {
+          "$oid": "6506a7359dc617025382d57d"
+        }
+      },
+      {
+        "name": "Rider Yadav",
+        "phoneNumber": {
+          "$numberLong": "7488788636"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-17T09:39:25.554Z"
+        },
+        "bookingId": 45826944,
+        "_id": {
+          "$oid": "6506c94d9dc6170253839e11"
+        }
+      },
+      {
+        "name": "Tanu priya",
+        "phoneNumber": {
+          "$numberLong": "6205573364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-17T12:07:58.948Z"
+        },
+        "bookingId": 27879560,
+        "_id": {
+          "$oid": "6506ec1e9dc6170253840c59"
+        }
+      },
+      {
+        "name": "Shashi rj kumar ",
+        "phoneNumber": {
+          "$numberLong": "9608478589"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-18T03:21:10.390Z"
+        },
+        "bookingId": 15510695,
+        "_id": {
+          "$oid": "6507c2269dc617025385115f"
+        }
+      },
+      {
+        "name": "Badal Kumar",
+        "phoneNumber": {
+          "$numberLong": "9570952556"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-19T04:44:48.189Z"
+        },
+        "bookingId": 32727901,
+        "_id": {
+          "$oid": "650927409dc617025387f036"
+        }
+      },
+      {
+        "name": "Manjeet Kumar ",
+        "phoneNumber": {
+          "$numberLong": "9128143464"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-20T12:36:43.082Z"
+        },
+        "bookingId": 90015134,
+        "_id": {
+          "$oid": "650ae75b16b040ec5752ce0e"
+        }
+      },
+      {
+        "name": "Rohit oraon",
+        "phoneNumber": {
+          "$numberLong": "8789144057"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T10:38:43.966Z"
+        },
+        "bookingId": 86167325,
+        "_id": {
+          "$oid": "650c1d3335dd56eb00077e0a"
+        }
+      },
+      {
+        "name": "Priti Kujur",
+        "phoneNumber": {
+          "$numberLong": "7461935584"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T10:41:14.842Z"
+        },
+        "bookingId": 68771933,
+        "_id": {
+          "$oid": "650c1dca35dd56eb00077f8c"
+        }
+      },
+      {
+        "name": "Raja Srk",
+        "phoneNumber": {
+          "$numberLong": "8789166145"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-21T11:19:49.104Z"
+        },
+        "bookingId": 5714634,
+        "_id": {
+          "$oid": "650c26d535dd56eb0007aee1"
+        }
+      },
+      {
+        "name": "suman",
+        "phoneNumber": {
+          "$numberLong": "9334684714"
+        },
+        "ratingLevel": 2,
+        "ratingNote": "The hotel was amazing and provides very  service.but don't provide towel and handkerchief ",
+        "date": {
+          "$date": "2023-09-21T23:51:38.795Z"
+        },
+        "bookingId": 40288045,
+        "_id": {
+          "$oid": "650cd70a35dd56eb000957ad"
+        }
+      },
+      {
+        "name": "sarvshresthsingh",
+        "phoneNumber": {
+          "$numberLong": "6201001796"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T05:24:00.439Z"
+        },
+        "bookingId": 6437640,
+        "_id": {
+          "$oid": "650d24f035dd56eb000a033f"
+        }
+      },
+      {
+        "name": "Abhishek Kumar ",
+        "phoneNumber": {
+          "$numberLong": "7667262520"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T15:09:47.602Z"
+        },
+        "bookingId": 53770853,
+        "_id": {
+          "$oid": "650dae3b35dd56eb000c58f2"
+        }
+      },
+      {
+        "name": "nitin aswal ",
+        "phoneNumber": {
+          "$numberLong": "8171983029"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T18:14:29.373Z"
+        },
+        "bookingId": 24785621,
+        "_id": {
+          "$oid": "650dd98535dd56eb000c9d79"
+        }
+      },
+      {
+        "name": "nitin aswal ",
+        "phoneNumber": {
+          "$numberLong": "8171983029"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-22T18:14:33.932Z"
+        },
+        "bookingId": 66273918,
+        "_id": {
+          "$oid": "650dd98935dd56eb000c9d95"
+        }
+      },
+      {
+        "name": "sachin kumar",
+        "phoneNumber": {
+          "$numberLong": "9142622859"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-23T10:25:38.743Z"
+        },
+        "bookingId": 82336052,
+        "_id": {
+          "$oid": "650ebd2235dd56eb000f4a9a"
+        }
+      },
+      {
+        "name": "solty singh",
+        "phoneNumber": {
+          "$numberLong": "8825288157"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T05:08:34.567Z"
+        },
+        "bookingId": 32940064,
+        "_id": {
+          "$oid": "650fc45235dd56eb001219b2"
+        }
+      },
+      {
+        "name": "Rahul Raj ",
+        "phoneNumber": {
+          "$numberLong": "9122940591"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T07:45:41.585Z"
+        },
+        "bookingId": 45459924,
+        "_id": {
+          "$oid": "650fe92535dd56eb00135ed2"
+        }
+      },
+      {
+        "name": "Inderjeet",
+        "phoneNumber": {
+          "$numberLong": "8789998725"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T08:21:04.748Z"
+        },
+        "bookingId": 38909847,
+        "_id": {
+          "$oid": "650ff17035dd56eb001385cd"
+        }
+      },
+      {
+        "name": "Inderjeet",
+        "phoneNumber": {
+          "$numberLong": "8789998725"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T08:21:11.479Z"
+        },
+        "bookingId": 50618315,
+        "_id": {
+          "$oid": "650ff17735dd56eb001385f4"
+        }
+      },
+      {
+        "name": "sanjay kumar",
+        "phoneNumber": {
+          "$numberLong": "6200174879"
+        },
+        "ratingLevel": 1,
+        "ratingNote": "good ",
+        "date": {
+          "$date": "2023-09-24T08:47:51.853Z"
+        },
+        "bookingId": 3870479,
+        "_id": {
+          "$oid": "650ff7b735dd56eb0013b1fd"
+        }
+      },
+      {
+        "name": "ABHINAV KUMAR",
+        "phoneNumber": {
+          "$numberLong": "7061672025"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T09:08:37.184Z"
+        },
+        "bookingId": 68562578,
+        "_id": {
+          "$oid": "650ffc9535dd56eb0013cf1e"
+        }
+      },
+      {
+        "name": "jubair ",
+        "phoneNumber": {
+          "$numberLong": "6202453317"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.osam application most beautiful ❤️❤️❤️❤️❤️😍😍😍 safe stay ",
+        "date": {
+          "$date": "2023-09-24T13:13:27.415Z"
+        },
+        "bookingId": 61858044,
+        "_id": {
+          "$oid": "651035f735dd56eb00152c6f"
+        }
+      },
+      {
+        "name": "vikash Kumar ",
+        "phoneNumber": {
+          "$numberLong": "7858022145"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-24T14:08:01.048Z"
+        },
+        "bookingId": 30404211,
+        "_id": {
+          "$oid": "651042c135dd56eb0015611f"
+        }
+      },
+      {
+        "name": "Aman Raj",
+        "phoneNumber": {
+          "$numberLong": "9304420728"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T00:44:20.396Z"
+        },
+        "bookingId": 60843058,
+        "_id": {
+          "$oid": "6510d7e435dd56eb00163847"
+        }
+      },
+      {
+        "name": "abhishek ",
+        "phoneNumber": {
+          "$numberLong": "9110911505"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T00:59:32.324Z"
+        },
+        "bookingId": 85649971,
+        "_id": {
+          "$oid": "6510db7435dd56eb00163b58"
+        }
+      },
+      {
+        "name": "abhishek ",
+        "phoneNumber": {
+          "$numberLong": "9110911505"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T00:59:37.158Z"
+        },
+        "bookingId": 71531323,
+        "_id": {
+          "$oid": "6510db7935dd56eb00163b80"
+        }
+      },
+      {
+        "name": "Arjun",
+        "phoneNumber": {
+          "$numberLong": "6206813631"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T03:52:24.750Z"
+        },
+        "bookingId": 56199476,
+        "_id": {
+          "$oid": "651103f835dd56eb0016800f"
+        }
+      },
+      {
+        "name": "Tanu priya",
+        "phoneNumber": {
+          "$numberLong": "6205573364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:57:03.436Z"
+        },
+        "bookingId": 58854855,
+        "_id": {
+          "$oid": "6511212f35dd56eb00178642"
+        }
+      },
+      {
+        "name": "Tanu priya",
+        "phoneNumber": {
+          "$numberLong": "6205573364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:58:48.841Z"
+        },
+        "bookingId": 96945275,
+        "_id": {
+          "$oid": "6511219835dd56eb0017a244"
+        }
+      },
+      {
+        "name": "Tanu priya",
+        "phoneNumber": {
+          "$numberLong": "6205573364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:58:53.432Z"
+        },
+        "bookingId": 42399016,
+        "_id": {
+          "$oid": "6511219d35dd56eb0017a270"
+        }
+      },
+      {
+        "name": "Tanu priya",
+        "phoneNumber": {
+          "$numberLong": "6205573364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T05:58:58.058Z"
+        },
+        "bookingId": 26236239,
+        "_id": {
+          "$oid": "651121a235dd56eb0017a29d"
+        }
+      },
+      {
+        "name": "Rahul Raj",
+        "phoneNumber": {
+          "$numberLong": "7903837789"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-25T14:49:28.100Z"
+        },
+        "bookingId": 83929823,
+        "_id": {
+          "$oid": "65119df835dd56eb0019c5fc"
+        }
+      },
+      {
+        "name": "Ajay kumar munda ",
+        "phoneNumber": {
+          "$numberLong": "7004217924"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T01:34:23.516Z"
+        },
+        "bookingId": 96469941,
+        "_id": {
+          "$oid": "6512351f35dd56eb001a6930"
+        }
+      },
+      {
+        "name": "Ajay kumar munda ",
+        "phoneNumber": {
+          "$numberLong": "7004217924"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T01:35:07.308Z"
+        },
+        "bookingId": 75060303,
+        "_id": {
+          "$oid": "6512354b35dd56eb001a6a2e"
+        }
+      },
+      {
+        "name": "Pritesh Sinha",
+        "phoneNumber": {
+          "$numberLong": "8102531751"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T04:29:36.204Z"
+        },
+        "bookingId": 87458062,
+        "_id": {
+          "$oid": "65125e3035dd56eb001ac922"
+        }
+      },
+      {
+        "name": "Pritesh Sinha",
+        "phoneNumber": {
+          "$numberLong": "8102531751"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-26T04:29:38.755Z"
+        },
+        "bookingId": 41774802,
+        "_id": {
+          "$oid": "65125e3235dd56eb001ac954"
+        }
+      },
+      {
+        "name": "Sumit Oraon",
+        "phoneNumber": {
+          "$numberLong": "9110020180"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-27T04:43:56.947Z"
+        },
+        "bookingId": 22014328,
+        "_id": {
+          "$oid": "6513b30c35dd56eb00200cb0"
+        }
+      },
+      {
+        "name": "Medical Laboratory Technician Exam Idea By N.K",
+        "phoneNumber": {
+          "$numberLong": "9572429720"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T02:17:45.911Z"
+        },
+        "bookingId": 19472552,
+        "_id": {
+          "$oid": "6514e24935dd56eb0024f545"
+        }
+      },
+      {
+        "name": "Deepak Kumar",
+        "phoneNumber": {
+          "$numberLong": "9153895364"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T02:30:33.834Z"
+        },
+        "bookingId": 8531369,
+        "_id": {
+          "$oid": "6514e54935dd56eb0024f665"
+        }
+      },
+      {
+        "name": "Rahul Kumar",
+        "phoneNumber": {
+          "$numberLong": "7488157394"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T02:58:09.758Z"
+        },
+        "bookingId": 33087807,
+        "_id": {
+          "$oid": "6514ebc135dd56eb00250d77"
+        }
+      },
+      {
+        "name": "Abhishek Kumar",
+        "phoneNumber": {
+          "$numberLong": "8825382219"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T04:02:31.887Z"
+        },
+        "bookingId": 43267217,
+        "_id": {
+          "$oid": "6514fad735dd56eb0025413b"
+        }
+      },
+      {
+        "name": "raj kumar ",
+        "phoneNumber": {
+          "$numberLong": "6201458232"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-28T04:11:57.228Z"
+        },
+        "bookingId": 91452579,
+        "_id": {
+          "$oid": "6514fd0d35dd56eb002545e1"
+        }
+      },
+      {
+        "name": "Saddam hussain",
+        "phoneNumber": {
+          "$numberLong": "8210012914"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T05:10:05.106Z"
+        },
+        "bookingId": 45296397,
+        "_id": {
+          "$oid": "65165c2d35dd56eb002c5ca0"
+        }
+      },
+      {
+        "name": "Saddam hussain",
+        "phoneNumber": {
+          "$numberLong": "8210012914"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T05:10:08.818Z"
+        },
+        "bookingId": 15713533,
+        "_id": {
+          "$oid": "65165c3035dd56eb002c62b0"
+        }
+      },
+      {
+        "name": "Saddam hussain",
+        "phoneNumber": {
+          "$numberLong": "8210012914"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T05:10:13.144Z"
+        },
+        "bookingId": 31027024,
+        "_id": {
+          "$oid": "65165c3535dd56eb002c660b"
+        }
+      },
+      {
+        "name": "Sagar Kumar ",
+        "phoneNumber": {
+          "$numberLong": "8094445367"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T05:47:56.599Z"
+        },
+        "bookingId": 6095546,
+        "_id": {
+          "$oid": "6516650c35dd56eb002cd5e6"
+        }
+      },
+      {
+        "name": "Manish chandra ",
+        "phoneNumber": {
+          "$numberLong": "7903714223"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-29T07:01:55.293Z"
+        },
+        "bookingId": 95619197,
+        "_id": {
+          "$oid": "6516766335dd56eb002d5730"
+        }
+      },
+      {
+        "name": "mahi",
+        "phoneNumber": {
+          "$numberLong": "6202105917"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-09-30T03:31:34.288Z"
+        },
+        "bookingId": 76316534,
+        "_id": {
+          "$oid": "6517969635dd56eb0031852d"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T06:21:44.325Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-30T03:31:34.297Z"
+    },
+    "__v": 57,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd6b"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd6c"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd6d"
+            }
+          },
+          {
+            "roomNo": 104,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd6e"
+            }
+          },
+          {
+            "roomNo": 105,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd6f"
+            }
+          },
+          {
+            "roomNo": 106,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd70"
+            }
+          },
+          {
+            "roomNo": 107,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd71"
+            }
+          },
+          {
+            "roomNo": 108,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd72"
+            }
+          },
+          {
+            "roomNo": 110,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd73"
+            }
+          },
+          {
+            "roomNo": 111,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd74"
+            }
+          },
+          {
+            "roomNo": 112,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd75"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650294d24439f06c8db2fd6a"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd77"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd78"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd79"
+            }
+          },
+          {
+            "roomNo": 204,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7a"
+            }
+          },
+          {
+            "roomNo": 205,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7b"
+            }
+          },
+          {
+            "roomNo": 206,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7c"
+            }
+          },
+          {
+            "roomNo": 207,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7d"
+            }
+          },
+          {
+            "roomNo": 208,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7e"
+            }
+          },
+          {
+            "roomNo": 209,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd7f"
+            }
+          },
+          {
+            "roomNo": 210,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd80"
+            }
+          },
+          {
+            "roomNo": 211,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd81"
+            }
+          },
+          {
+            "roomNo": 212,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd82"
+            }
+          },
+          {
+            "roomNo": 213,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294d24439f06c8db2fd83"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650294d24439f06c8db2fd76"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64c8c94d763932d1835f82c8"
+    },
+    "hotelName": "OXY RITZ",
+    "hotelId": "OXY2010",
+    "phoneNo": "9155596359",
+    "imageData": [
+      {
+        "type": "ROOMS",
+        "images": [
+          "/hotelImages/img/4b3332e9-5bdf-42b3-bdc8-6d6b0e5b0fba.png",
+          "/hotelImages/img/26d26d6b-e098-4748-9f8c-55521364f054.png",
+          "/hotelImages/img/d84103ec-028e-4a8d-bce7-5c481d1c13b7.png",
+          "/hotelImages/img/505350c9-20b6-4d3d-a2a0-e9e45fc8aa28.png",
+          "/hotelImages/img/e70a3567-f45b-4d71-866b-65d83a524fb5.png"
+        ],
+        "_id": {
+          "$oid": "650294174439f06c8db2fd27"
+        }
+      }
+    ],
+    "latitude": 23.37475,
+    "longitude": 85.3203889,
+    "hotelAddress": "Mahavir Mandir, Upper Bazar, Ranchi",
+    "hotelDescription": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.",
+    "locationUrl": "https://www.google.com/maps/place/23%C2%B022'29.1%22N+85%C2%B019'13.4%22E/@23.37475,85.3203889,17z/data=!3m1!4b1!4m4!3m3!8m2!3d23.37475!4d85.3203889?hl=en&entry=ttu",
+    "restrictions": [
+      "Check-in is allowed any time",
+      "No Guaranteed Early check-in",
+      "Couples are welcome",
+      "Guests can check in using any local or outstation Id Proof (Pan Card not accepted)"
+    ],
+    "refundPercentage": 0,
+    "checkIn": "12-00",
+    "checkOut": "11-00",
+    "housePoliciesDos": [
+      "Wear a mask and keep a safe distance of at least 2 meters (6 feet) when interacting with others.",
+      "Wash your hands frequently with the soap and running water.",
+      "Use the intercom to communicate with property staff for your requirements.",
+      "Put all disposable plates/cups/bottles after use in the garbage bag.",
+      "In case a balcony is shared with another room, please be on the side of your room. Do not interact with guests of other room.",
+      "In case of a medical emergency, contact the reception immediately.",
+      "In case of an emergency like fire/earthquake, please gather in the assembly area while maintaining 2 meters (6 feet) distance from others.",
+      "Request you to use your own mask and other safety kit, the spare one may not be available at reception."
+    ],
+    "housePoliciesDonts": [
+      "Please do not touch anything outside your room, including sofa or chairs at reception.",
+      "Do not use common areas such as reception and minimise interaction with other guests.",
+      "Visitors are not allowed in the property, Please use voice/video calls to interact with your dear ones.",
+      "Spitting in the common area is strongly prohibited.",
+      "Kitchen and washing area entry is prohibited for guests."
+    ],
+    "houseAmenities": [
+      "AC",
+      "TV",
+      "Free Wifi",
+      "Power backup",
+      "Elevator",
+      "In-house Restaurant",
+      "CCTV cameras",
+      "Private Entrance",
+      "Reception",
+      "24/7 check-in",
+      "Fire Extinguisher",
+      "Buzzer/door bell"
+    ],
+    "nearBy": [],
+    "roomTypes": [
+      {
+        "type": "Deluxe",
+        "availableRooms": 6,
+        "features": [],
+        "_id": {
+          "$oid": "650294174439f06c8db2fd28"
+        }
+      }
+    ],
+    "minPrice": 600,
+    "maxPrice": 1500,
+    "noOfRatings": 6,
+    "rating": 3.5,
+    "reviews": [
+      {
+        "name": "RAVI KUMAR JAISWAL",
+        "phoneNumber": {
+          "$numberLong": "9518769112"
+        },
+        "ratingLevel": 3,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-14T05:35:22.493Z"
+        },
+        "bookingId": 44310046,
+        "_id": {
+          "$oid": "64d9bd1ac4744b5c3877b4f3"
+        }
+      },
+      {
+        "name": "Minhaj Ansari",
+        "phoneNumber": {
+          "$numberLong": "9304358200"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-18T12:53:09.629Z"
+        },
+        "bookingId": 86289322,
+        "_id": {
+          "$oid": "64df69b5c4744b5c38796fb0"
+        }
+      },
+      {
+        "name": "Vijay Nayak",
+        "phoneNumber": {
+          "$numberLong": "6201278923"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-25T10:39:55.909Z"
+        },
+        "bookingId": 4007861,
+        "_id": {
+          "$oid": "64e884fbc2f827500163df7d"
+        }
+      },
+      {
+        "name": "Sourav Kumar",
+        "phoneNumber": {
+          "$numberLong": "7903855901"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and provides very good service.",
+        "date": {
+          "$date": "2023-08-26T03:29:02.984Z"
+        },
+        "bookingId": 7568216,
+        "_id": {
+          "$oid": "64e9717e1e55d52dceb5d516"
+        }
+      },
+      {
+        "name": "Nitin Chaturvedi",
+        "phoneNumber": {
+          "$numberLong": "8222871032"
+        },
+        "ratingLevel": 4,
+        "ratingNote": "The hotel was amazing and staff behaviour is too good nice location thank u oxy \n\n",
+        "date": {
+          "$date": "2023-08-30T03:42:22.028Z"
+        },
+        "bookingId": 66946631,
+        "_id": {
+          "$oid": "64eeba9e75e1359ae15c7415"
+        }
+      },
+      {
+        "name": "Aman raj",
+        "phoneNumber": {
+          "$numberLong": "9534289450"
+        },
+        "ratingLevel": 2,
+        "ratingNote": "The hotel was amazing and provides very good service.but one AC not working properly and no window in room",
+        "date": {
+          "$date": "2023-09-18T13:57:41.053Z"
+        },
+        "bookingId": 18525873,
+        "_id": {
+          "$oid": "650857559dc61702538709d2"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-08-01T08:58:53.497Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-18T13:57:41.058Z"
+    },
+    "__v": 6,
+    "hotelStructure": [
+      {
+        "floorNo": 1,
+        "rooms": [
+          {
+            "roomNo": 101,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd2a"
+            }
+          },
+          {
+            "roomNo": 102,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd2b"
+            }
+          },
+          {
+            "roomNo": 103,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd2c"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650294174439f06c8db2fd29"
+        }
+      },
+      {
+        "floorNo": 2,
+        "rooms": [
+          {
+            "roomNo": 201,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd2e"
+            }
+          },
+          {
+            "roomNo": 202,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd2f"
+            }
+          },
+          {
+            "roomNo": 203,
+            "roomType": "Deluxe",
+            "_id": {
+              "$oid": "650294174439f06c8db2fd30"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "650294174439f06c8db2fd2d"
+        }
+      }
+    ]
+  }]

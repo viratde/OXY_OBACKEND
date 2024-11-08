@@ -1,0 +1,145 @@
+[
+    {
+        "_id": {
+          "$oid": "64cb90b9014f179133fe2040"
+        },
+        "hotelId": {
+          "$oid": "64c8906f262fb736760dc541"
+        },
+        "userId": {
+          "$oid": "64cb90a8014f179133fe2018"
+        },
+        "name": "Abhimanyu Kumar",
+        "phone": 8249141187,
+        "bookedRooms": [
+          {
+            "roomType": "Deluxe",
+            "noOfRooms": 1,
+            "noOfGuests": [
+              1
+            ],
+            "_id": {
+              "$oid": "64cb90b9014f179133fe2041"
+            }
+          }
+        ],
+        "allotedRooms": [
+          {
+            "date": {
+              "$date": "2023-08-02T18:30:00.000Z"
+            },
+            "roomType": "Deluxe",
+            "noOfRooms": 1,
+            "noOfGuests": [
+              1
+            ],
+            "_id": {
+              "$oid": "64cb90b9014f179133fe2042"
+            },
+            "createdAt": {
+              "$date": "2023-08-03T11:34:17.081Z"
+            },
+            "updatedAt": {
+              "$date": "2023-08-03T11:34:17.081Z"
+            }
+          }
+        ],
+        "amount": 700,
+        "bookingAmount": 700,
+        "checkIn": {
+          "$date": "2023-08-03T06:30:00.000Z"
+        },
+        "checkOut": {
+          "$date": "2023-08-04T05:30:00.000Z"
+        },
+        "accountingDates": [
+          {
+            "$date": "2023-08-02T18:30:00.000Z"
+          },
+          {
+            "$date": "2023-08-03T18:30:00.000Z"
+          }
+        ],
+        "accounting": [
+          "03-08-2023",
+          "04-08-2023"
+        ],
+        "isCancelled": false,
+        "hasCheckedIn": true,
+        "hasCheckedOut": true,
+        "bookingId": 11580639,
+        "hasNotShown": false,
+        "referenceId": "",
+        "isCreatedByManager": false,
+        "isRoomCleaned": false,
+        "isAdvancedPayment": false,
+        "isConveniencePayment": false,
+        "isCheckedInByQr": true,
+        "isCheckedOutByQr": true,
+        "sourceBooking": "User",
+        "actionCode": 926170316710,
+        "extraPrices": [],
+        "createdAt": {
+          "$date": "2023-08-03T11:34:17.081Z"
+        },
+        "updatedAt": {
+          "$date": "2023-08-03T11:35:41.101Z"
+        },
+        "__v": 0,
+        "checkInTime": {
+          "$date": "2023-08-03T11:34:44.021Z"
+        },
+        "checkedInData": {
+          "floorNo": "1",
+          "roomNo": "101",
+          "registerNo": "4415",
+          "updateTime": {
+            "$date": "2023-08-03T11:35:14.718Z"
+          },
+          "payment": {
+            "price": 700,
+            "ota": 0,
+            "bank": 0,
+            "cash": 700,
+            "pending": 0,
+            "wasMoneyPending": false,
+            "isPendingMoneyCleared": true,
+            "basicPayment": {
+              "amount": 700,
+              "cash": 700,
+              "bank": 0,
+              "ota": 0,
+              "pending": 0,
+              "date": {
+                "$date": "2023-08-03T11:35:14.718Z"
+              },
+              "_id": {
+                "$oid": "64cb90f2014f179133fe2062"
+              }
+            },
+            "_id": {
+              "$oid": "64cb90f2014f179133fe2061"
+            },
+            "pendingPayment": [],
+            "createdAt": {
+              "$date": "2023-08-03T11:35:14.722Z"
+            },
+            "updatedAt": {
+              "$date": "2023-08-03T11:35:14.722Z"
+            }
+          },
+          "_id": {
+            "$oid": "64cb90f2014f179133fe2060"
+          },
+          "createdAt": {
+            "$date": "2023-08-03T11:35:14.722Z"
+          },
+          "updatedAt": {
+            "$date": "2023-08-03T11:35:14.722Z"
+          }
+        },
+        "checkedOutData": {
+          "$date": "2023-08-03T11:35:41.099Z"
+        }
+      }
+]
